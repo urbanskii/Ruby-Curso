@@ -4,3 +4,4 @@ Instalando ferramentas de desenvolvimento - Windows com WSL
 Profissionais que trabalham na área #23
 Mindset de um programador #24
 Paradigmas de programação #25
+Linguagem interpretada vs compilada #26
