@@ -6,3 +6,4 @@ Mindset de um programador #24
 Paradigmas de programação #25
 Linguagem interpretada vs compilada #26
 Linguagem interpretada vs compilada #27
+Terminal #28
