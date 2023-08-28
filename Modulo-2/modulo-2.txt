@@ -2,3 +2,4 @@ Realizado aula Introdução à programação #20
 Realizado aula Posso usar Windows para programar?..
 Instalando ferramentas de desenvolvimento - Windows com WSL
 Profissionais que trabalham na área #23
+Mindset de um programador #24
