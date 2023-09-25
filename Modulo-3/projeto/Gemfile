@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '3.2.2'
+
+gem 'enumerate_it'
+gem 'rails', '6.1.7.6'
+gem 'rspec'
