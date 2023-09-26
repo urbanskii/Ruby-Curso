@@ -5,7 +5,7 @@ class Produto
     end
 
     def descricao
-        puts "Produto: #{@nome}, Preco: #{@preco} reais"
+        puts "Produto: #{@nome}, Preço: #{@preco} reais"
     end
 end
 
