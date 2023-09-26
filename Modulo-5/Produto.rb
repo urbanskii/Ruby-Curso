@@ -5,12 +5,12 @@ class Produto
     end
 
     def descricao
-        puts "Produto: #{@nome}, Preço: #{@preco}"
+        puts "Produto: #{@nome}, Preco: #{@preco} reais"
     end
 end
 
-produto1 = Produto.new("Celular", 999.99)
-produto2 = Produto.new("Laptop", 1499.99)
+#produto1 = Produto.new("Celular", 999.99)
+#produto2 = Produto.new("Laptop", 1499.99)
 
-produto1.descricao
-produto2.descricao
+#produto1.descricao
+#produto2.descricao
